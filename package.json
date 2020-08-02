@@ -1,0 +1,31 @@
+{
+  "name": "who-logs-to-console",
+  "version": "1.0.0",
+  "description": "You have some components writing very verbose logs and you don't know which? who-logs-to-console is here to help you.",
+  "main": "index.js",
+  "bin": {
+    "who-logs-to-console": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristian/who-logs-to-console.git"
+  },
+  "keywords": [
+    "debug",
+    "devops",
+    "test",
+    "console",
+    "verbose",
+    "write"
+  ],
+  "author": {
+    "name": "Kristian Kraljic",
+    "email": "kris@kra.lc",
+    "url": "https://kra.lc/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kristian/who-logs-to-console#readme",
+  "bugs": {
+    "url": "https://github.com/kristian/who-logs-to-console/issues"
+  }
+}
